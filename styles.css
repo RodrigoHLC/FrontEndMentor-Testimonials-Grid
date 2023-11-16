@@ -27,7 +27,7 @@ body {
     /* min-height:content;  */
     /* max-height:90%; */
     display: grid;
-    grid-template: repeat(2,1fr) / repeat(4,1fr);
+    grid-template: repeat(2, 1fr) / repeat(4,1fr);
     gap:2rem;
 }
 
